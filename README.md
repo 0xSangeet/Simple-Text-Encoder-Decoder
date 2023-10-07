@@ -1,7 +1,7 @@
 
 # Simple String Encoder & Decoder
 
-A simple python script that encodes and decodes a string for secure messaging.
+A simple python script that encodes and/or decodes a string.
 
 
 ## Installation
